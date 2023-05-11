@@ -1,0 +1,13 @@
+It is interesting to note that by simply adding .doc in the file attribute when giving naming it immediately converts the file to a document file
+I learnt new commands such as git branch "nameofbranch"
+An attempt to commit my file kept returing with an error file untracked with the file in red perpetually. I later realised the error was not changing Branches. 
+I had to switch form the main branch to the Assessment-1 branch before my files could commit.
+Using git branch "nameof branch" then git checkout "branchname" to check out branch then using git status tell you the branch you are in and informtion on changes to be committed
+to commit use commaand git add . (period) lsit all files in your directory for committing then check by using command git status 
+to commit use command git commit -m with a narrative "any choice of text"
+to push codes to online repo use git push origin nameofbranch in this case: Assessment-1 follow authentication process in the browser
+follow the link or copy an dpaste in browser then follow the steps on github 
+to create a new branh use command git branch then preferred name 
+to pull use command git pull origin and location in this case 
+to create a new branch use command got checkout -b then name of new branch this creates a new branch and automatically switches 
+
